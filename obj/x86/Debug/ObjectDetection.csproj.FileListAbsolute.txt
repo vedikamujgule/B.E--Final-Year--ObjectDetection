@@ -1,0 +1,30 @@
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.csprojResolveAssemblyReference.cache
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.Form1.resources
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.MainForm.resources
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.MainFrm.resources
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.Properties.Resources.resources
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.csproj.GenerateResource.Cache
+E:\2018-19\Project\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.exe
+E:\2018-19\Project\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.pdb
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.exe
+E:\2018-19\Project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.pdb
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.exe
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.pdb
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.exe
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.pdb
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.csprojResolveAssemblyReference.cache
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.Form1.resources
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.MainForm.resources
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.MainFrm.resources
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.Properties.Resources.resources
+C:\Users\VEDIKA MUJGULE\Desktop\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.csproj.GenerateResource.Cache
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.exe
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.pdb
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.exe
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.pdb
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.csprojResolveAssemblyReference.cache
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.Form1.resources
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.MainForm.resources
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.MainFrm.resources
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.Properties.Resources.resources
+F:\VEDIKA\project\ObjectDetection\ObjectDetection\obj\x86\Debug\ObjectDetection.csproj.GenerateResource.Cache
