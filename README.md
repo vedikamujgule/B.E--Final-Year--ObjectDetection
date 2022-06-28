@@ -1,5 +1,5 @@
-# B.E--Final-Year--ObjectDetection
-A Novel Approach for Object Detection (BACHELORS FINAL YEAR PROJECT)	
+#BACHELORS FINAL YEAR PROJECT
+A Novel Approach for Object Detection	
 April 2018-May 2019
 
 
